@@ -4,7 +4,7 @@ import Work from '../components/Work.js'
 
 const About = () => (
   <div>
-    <div className="w-100  ht-400-m mb-60  relative ">
+    <div className="w-100   mb-60  relative ">
       <div className="mx-1400 w-100 mlra pa-30 ht-100p">
         <div className="fx fx-sb">
           <Link to="/" className="fc-black td-none"><div className="t-serif--basic fw-bold  ">C &mdash; B</div></Link>
