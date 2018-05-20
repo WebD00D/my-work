@@ -1011,8 +1011,8 @@ pre tt:after {
 
 @media ( max-width: 700px) {
   .section-link {
-      font-size: 12px;
-      line-height: 30px;
+      font-size: 18px;
+      line-height: 32px;
   }
 }
 
