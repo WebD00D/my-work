@@ -29,6 +29,9 @@ const IndexPage = () => (
             <a href="#known" className="section-link">
               KNOWN/
             </a>
+            <a href="#irc" className="section-link">
+              IRC/
+            </a>
             <a href="#qc" className="section-link">
               QUIET CORNER/
             </a>
