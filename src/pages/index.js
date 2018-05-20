@@ -124,6 +124,17 @@ const IndexPage = () => (
           role="Web Developer"
         />
         <Work
+          id="irc"
+          project="International Roll-Call"
+          timeline="Nov 2012- Sept 2015"
+          projectType="Freelance Project"
+          siteLink="http://www.roll-call.com/"
+          siteLinkTitle="Learn More"
+          paragraphOne="Before I say anything about my time at International Roll-Call, please note I did not design or build their website. Pheww, now that we got that out of the way, IRC provides complete Legislative Management systems to all levels of government. During my time there, I travelled to learn about the specific needs of various Legislatures, and would customize our applications to fit their needs. "
+          paragraphTwo="Specifically, I worked with customizations for Ohio House of Representatives, New Mexico Senate, Florida House, Alabama House and Senate, Texas House of Representatives, and Oregon House of Representatives. I also completely designed and built out a room scheduling app for New Hampshire House of Representatives."
+          role="Web Developer"
+        />
+        <Work
           id="qc"
           project="Quiet Corner"
           timeline="March 2018"
