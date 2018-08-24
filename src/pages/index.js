@@ -17,6 +17,10 @@ const IndexPage = () => (
 
         <div className="ht-100p fx fx-col fx-c">
           <div style={{ display: 'flex', flexWrap: 'wrap' }}>
+           <a href="#rare" className="section-link">
+              R.A.R.E/
+            </a>
+  
             <a href="#stab" className="section-link">
               STAB MAG/
             </a>
@@ -82,6 +86,18 @@ const IndexPage = () => (
           </div>
         </div>
 
+   <Work
+          id="rare"
+          project="R.A.R.E"
+          timeline="August 2018 - Present"
+          projectType="Blockchain"
+          siteLink="https://rareart.io/"
+          siteLinkTitle="R.A.R.E"
+          paragraphOne="A blockchain-enabled platform for artists to 
+          issue digitally scarce copies of their art for collectors to own."
+          paragraphTwo="Artist create their digital art file. This file then gets uploaded to the IPFS, ownership tokens minted, and artist can begin to sell. Collectors use Ethereum or RARE Token to buy art at a fixed price or in auction. ETH smart contracts handle all the auctions and fixed-price purhcases, which allow trustless transfers of RARE assets. Collectors store RARE assets in their Ethereum wallets and can trade at any time."
+          role="Contract Frontend Engineer"
+        />
         <Work
           id="stab"
           project="Stab Mag"
